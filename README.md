@@ -1,6 +1,7 @@
 
 
-// program to find lasgest and smallest element of array
+//1) program to find lasgest and smallest element of array
+
 #include <stdio.h>
 void maxmin(int[],int);
 int main()
@@ -48,7 +49,8 @@ input array elements
 max=5 
  min=1
 
-// program to print sum of digits of each element of array
+// 2) program to print sum of digits of each element of array
+
 #include <stdio.h>
 int sum(int);
 int main()
@@ -92,7 +94,8 @@ input array elements
 14
 345
 
-// program to print sum of factors of each element of array
+//3) program to print sum of factors of each element of array
+
 #include <stdio.h>
 int sof(int);
 int main()
@@ -135,7 +138,8 @@ input array elements
 18
 28739
 
-// program to find reverse of each element of array
+//4) program to find reverse of each element of array
+
 #include <stdio.h>
 int palin(int);
 int main()
@@ -186,7 +190,8 @@ input array elements
 987 
 
 
-// program to check if each element of array is palindrome or not
+// 5)program to check if each element of array is palindrome or not
+
 #include <stdio.h>
 int palin(int);
 int main()
@@ -246,7 +251,8 @@ no. of palin drome no. is 2
 
 
 
-// program to find factorial using recursion of no. greater than 25
+//6) program to find factorial using recursion of no. greater than 25
+
 #include <stdio.h>
 int fact(int);
 int main() 
@@ -276,7 +282,8 @@ input a number
 26
 factorial is -1853882368
 
-// program to find factorial using recursion of no. greater than 25
+//7) program to find factorial using recursion of no. greater than 25
+
 #include <stdio.h>
 long double fact(long double);
 int main() 
@@ -305,7 +312,8 @@ input a number
 25
 factorial is 15511210043330985984000000.000000
 
-// program to reverse elements of array
+// 8)program to reverse elements of array
+
 #include <stdio.h>
 int main() 
 {
@@ -336,7 +344,8 @@ input elements
 5
 5
 
-// Online C compiler to run C program online
+//9)program to add two strings
+
 #include <stdio.h>
 #include <string.h>
 int main() 
@@ -353,7 +362,7 @@ int main()
     
 
     return 0;
-
+}
 
 
 /tmp/1GzSRxg7o3.o
@@ -366,7 +375,8 @@ aarjav
 jain
 
 
-// Online C compiler to run C program online
+// 10)program to add two string without using function
+
 #include <stdio.h>
 #include <string.h>
 int main() 
@@ -403,7 +413,8 @@ new string is
 aarjav is best student
 
 
-// Online C compiler to run C program online
+// 13)program to reverse the strings add if palindrome or equal
+
 #include <stdio.h>
 #include <string.h>
 int main() 
@@ -448,6 +459,9 @@ int main()
 
     return 0;
 }
+
+
+
 /tmp/DFbdJiDS7w.o
 input string 1
 naman
@@ -459,9 +473,3 @@ new string is
 
 namanaba
 
-
-
-
-
-
-}4321
